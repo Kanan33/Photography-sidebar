@@ -23,6 +23,7 @@ This is a simple web design project made using HTML and CSS. It has a full-scree
 ## 📸 Screenshot
 
 ![Preview](screenshot.png)
+![Preview](Screenshot2.png)
 
 
 ## 📬 Contact
